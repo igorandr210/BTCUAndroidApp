@@ -1,0 +1,4 @@
+<!-- AOSP copyright notice can be found at the above link --><selector xmlns:android="http://schemas.android.com/apk/res/android"><!--<item android:state_window_focused="true" android:drawable="@drawable/fon2" />
+  <item android:state_checkable="true" android:drawable="@drawable/fon2" />
+  <item android:state_checked="true" android:drawable="@drawable/fon2" />--><item android:state_selected="true"><shape><gradient android:type="linear" android:endColor="#f2f2f2" android:startColor="#f2f2f2" android:angle="90.0" /></shape></item>/&gt;
+  <item><shape><gradient android:type="linear" android:endColor="#e5e3e6" android:startColor="#e5e3e6" android:angle="90.0" /></shape></item></selector>
